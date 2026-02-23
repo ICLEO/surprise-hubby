@@ -367,7 +367,7 @@
       I am so proud of you. So grateful for the life we have built together. And so deeply, endlessly in love with you.<br><br>
       Here's to another year of laughing loud, loving deeply, and growing old together — and I wouldn't change a single thing. 🌸
     </p>
-    <span class="confetti-strip">🎊 💕 🎁 🎂 💓 ♥️ 🎊</span>
+    <span class="confetti-strip">🎊 💕 🎁 I LOVE YOU 🎂 ♥️ 🎊</span>
   </div>
 </div>
 
