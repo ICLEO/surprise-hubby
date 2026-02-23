@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -342,11 +342,9 @@
     <span class="celebrate-emoji">🥳</span>
     <p class="celebrate-title">That's what I thought!</p>
     <p class="celebrate-msg">
-      Happy Birthday, my love!! 🎉<br><br>
-      Happy birthday to my man who still gives me butterflies every time, who still makes me laugh until my stomach hurts and my eyes fill with tears, and who still chooses me — every single day — without hesitation. You have no idea how much that means to me.<br><br>
-      Life has never been perfect, but it has always been worth it. Through every season, every challenge, every quiet night, and every loud argument, you have shown me what real love looks like. Not the kind from movies, but the kind that shows up — steady, patient, and true. 💕<br><br>
+      Happy birthday to my man 🎉 who still gives me butterflies every time, who still makes me laugh until my stomach hurts and my eyes fill with tears, and who still chooses me — every single day — without hesitation. You have no idea how much that means to me.<br><br>
+      Life has never been perfect, but it has always been worth it. Through every season, every challenge, every quiet night, and every loud argument, you have shown me what real love looks like. 💕<br><br>
       I am so proud of you. So grateful for the life we have built together. And so deeply, endlessly in love with you.<br><br>
-      I am the luckiest woman in the world — not because everything is easy, but because I get to do all of it with you.<br><br>
       Here's to another year of laughing loud, loving deeply, and growing old together — and I wouldn't change a single thing. 🌸
     </p>
     <span class="confetti-strip">🎊 💕 🎁 🎂 💓 ♥️ 🎊</span>
